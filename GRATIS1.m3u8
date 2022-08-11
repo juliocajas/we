@@ -1,0 +1,160 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="I170.74016.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="CINEMA PREMIUM",DE PELICULA
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HQ | ECUAVISA HD (1)" tvg-logo="http://vplay.club:8888/images/a3fff5343075870074dbe3092d16656b.png" group-title="ECUADOR",ECUADOR HQ | ECUAVISA HD
+http://mivacuna-sispro.info:8888/22/22/69880
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MULTICANAL CATAMAYO (3)" tvg-logo="http://vplay.club:8888/images/c66498211eba2bcf81b6b3bb5024ac95.png" group-title="ECUADOR",ECUADOR | MULTICANAL CATAMAYO (3)
+http://mivacuna-sispro.info:8888/22/22/120183
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS (1)" tvg-logo="http://vplay.club:8888/images/71e91b0bcfa59b9a9c252a1ad00b4c4e.png" group-title="ECUADOR",ECUADOR | RTS (1)
+http://mivacuna-sispro.info:8888/22/22/70150
+
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ESPAÑA | PARAMOUNT CHANNEL HD (5)" tvg-logo="http://vplay.club:8888/images/5a953b054065f3b6603fcd04cc7ff030.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | PARAMOUNT CHANNEL HD 
+http://200.41.79.165:8000/play/a0iq
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY | SONY HD (5)" tvg-logo="http://vplay.club:8888/images/7be7ce1f87a8b20a86b144db26267e74.png" group-title="GERMANY",GERMANY | SONY HD
+http://200.41.79.165:8000/play/a04h
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA | PREMIUM STUDIO UNIVERSAL (5)" tvg-logo="http://vplay.club:8888/images/0d771e411f63f2a72f54b77431882a20.png" group-title="ITALIA",ITALIA | PREMIUM STUDIO UNIVERSAL
+http://200.41.79.165:8000/play/a0i0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT 
+http://200.41.79.165:8000/play/a04a
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PARAÍSO DIGITAL (3)" tvg-logo="http://vplay.club:8888/images/2d4abf5e50699ef2f278ed9f4a9726ec.png" group-title="ECUADOR",ECUADOR | PARAÍSO DIGITAL (3)
+http://mivacuna-sispro.info:8888/22/22/120185
+
+#EXTINF:-1 tvg-id="I197.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="Entretenimiento",DISTRITO COMEDIA
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN 
+http://200.41.79.165:8000/play/a05x/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV
+http://mivacuna-sispro.info:8888/22/22/69901
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal
+http://200.41.79.165:8000/play/a040
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV
+http://200.41.79.165:8000/play/a05p
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
+http://200.41.79.165:8000/play/a08r
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax 
+http://200.41.79.165:8000/play/a04g/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE
+http://200.41.79.165:8000/play/a04j/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden PLUS 
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER FULL HD (6)" tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | GOLDEN PREMIER FULL HD (6)
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES SD | LAS ESTRELLA (1)" tvg-logo="http://vplay.club:8888/images/68dcc724119154e26a7a6f126e9f4f7b.png" group-title="CULTURALES",CULTURALES SD | LAS ESTRELLA
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES SD | LAS ESTRELLA (1)" tvg-logo="http://vplay.club:8888/images/68dcc724119154e26a7a6f126e9f4f7b.png" group-title="CULTURALES",CULTURALES SD | LAS ESTRELLA
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES SD | LAS ESTRELLA (1)" tvg-logo="http://vplay.club:8888/images/68dcc724119154e26a7a6f126e9f4f7b.png" group-title="CULTURALES",CULTURALES SD | LAS ESTRELLA
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES SD | LAS ESTRELLA (1)" tvg-logo="http://vplay.club:8888/images/68dcc724119154e26a7a6f126e9f4f7b.png" group-title="CULTURALES",CULTURALES SD | LAS ESTRELLA
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION | TELENOVELAS (1)" tvg-logo="http://vplay.club:8888/images/fc049386abab35d18860c0fac01887fb.png" group-title="UNIVISION",UNIVISION | TELENOVELAS
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | UNICABLE (1)" tvg-logo="http://vplay.club:8888/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="MEXICO",MEXICO | UNICABLE
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+
+FUTBOL
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
+NOVELAS
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
+
+https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
+
+https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
+
+https://linear-329.frequency.stream/329/hls/master/playlist.m3u8
+
+https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
+
+
+CLASICO
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
+
+https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
+
+
+UNIVICION
+https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
+
+
+https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
+
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+
+https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
+
+
+AFICIONADOS
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
+
+TNDU
+https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
+
+https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
+
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+
